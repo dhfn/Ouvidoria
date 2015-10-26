@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- IdentificationActivity -->
+
+    <string name="app_name">Ouvidoria</string>
+    <string name="str_explain_identification">Para entrar em contato pelo CHAT, é necessário realizar sua identificação.</string>
+    <string name="str_more_contacts">Você pode também entrar em contatos pelos seguintes meios:</string>
+    <string name="str_et_name">Nome</string>
+    <string name="str_et_email">Email</string>
+    <string name="str_bt_go">Continuar</string>
+    <string name="str_msg_error_name">É necessário informar seu nome</string>
+    <string name="str_msg_error_email">É necessário informar seu email</string>
+    <string name="str_msg_error_invalid_email">Email inválido</string>
+    <string name="title_activity_chat">ChatActivity</string>
+
+
+</resources>
